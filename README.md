@@ -45,6 +45,11 @@
 
 | Subject | Credit | Total |
 | ------- | ------:| -----:|
+| **Pass** |
+| | | |
+| English | 9 | 9|
+| | 9 | |
+| | | |
 | **Year 1 semester 1** |
 | | | |
 | **Table Tennis for Health** | 1 | 1 |
