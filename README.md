@@ -99,10 +99,10 @@
 | Workgroup Software Development Process Laboratory 01219348 | 1 | x |
 | Knowledge Representation 01219363 | 3 | x |
 | Group Dynamics and Psychology 01219391 | 3 | x |
-| **Any General Education** | 3 | x |
-| **PE** | 1 | x |
-| | 16 + 3 + 1 | x |
-| | | |
+| ( The Art of Living with Others ) 01387101 เสรี | 3 | x |
+| ( Art Perception ) 01999034 มนุษย์ | 3 | x |
+| | 16 + 3 + 3 | x |
+| | 22 | |
 | **Year 3 semester 2** |
 | | | |
 | Laws and Ethics in Information Technology | 3 | x |
