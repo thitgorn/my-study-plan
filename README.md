@@ -93,12 +93,12 @@
 | | | |
 | **Year 3 semester 1** |
 | | | |
-| Knowledge Engineering and Knowledge Management | 3 | x |
-| Data Communication and Computers Networks Programming | 3 | x |
-| Workgroup Software Development Process | 3 | x |
-| Workgroup Software Development Process Laboratory | 1 | x |
-| Knowledge Representation | 3 | x |
-| Group Dynamics and Psychology | 3 | x |
+| Knowledge Engineering and Knowledge Management | 3 | x | 01219271 |
+| Data Communication and Computers Networks Programming | 3 | x | 01219321 |
+| Workgroup Software Development Process | 3 | x | 01219347 |
+| Workgroup Software Development Process Laboratory | 1 | x | 01219348 |
+| Knowledge Representation | 3 | x | 01219363 |
+| Group Dynamics and Psychology | 3 | x | 01219391 |
 | **Any General Education** | 3 | x |
 | **PE** | 1 | x |
 | | 16 + 3 + 1 | x |
