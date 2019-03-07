@@ -6,16 +6,16 @@
 | ------- | ------:| -----:|
 | Innovative Thinking | 1 | 1 |
 | Health for Life | 3 | 4 |
-| x | 3 | 7 |
-| x | 3 | 10 |
-| | | 4 |
+| Food for Mankind | 3 | 7 |
+| New Age Infor.Manage. in Everyday Life | 3 | 10 |
+| | | 10 |
 | | | |
 | **Social Sciences** | Credit | 3 Units |
 | Man & Society | 3 | 3 |
 | | | 3 |
 | | | |
 | **Humanities** | Credit | 3 Units |
-| x | 3 | 3 |
+| Art Perception | 3 | 3 |
 | | | 0 |
 | | | |
 | **Language** | Credit | 12 Units |
@@ -41,7 +41,9 @@
 
 | Subject | Credit | 6 Units |
 | ------- | ------:| -----:|
-| | | 0 |
+| Special Problems | 3 | 3 |
+| Selected Topics in Software & Knowledge Eng. | 3 | 6 |
+| | | 6 |
 
 | Subject | Credit | Total |
 | ------- | ------:| -----:|
@@ -98,38 +100,36 @@
 | | | |
 | **Year 3 semester 1** |
 | | | |
-| Knowledge Engineering and Knowledge Management 01219271 | 3 | x |
-| Data Communication and Computers Networks Programming 01219321 | 3 | x |
-| Workgroup Software Development Process 01219347 | 3 | x |
-| Workgroup Software Development Process Laboratory 01219348 | 1 | x |
-| Knowledge Representation 01219363 | 3 | x |
-| Group Dynamics and Psychology 01219391 | 3 | x |
-| ( The Art of Living with Others ) 01387101 เสรี | 3 | x |
-| ( Art Perception ) 01999034 มนุษย์ | 3 | x |
-| | 16 + 3 + 3 | x |
-| | 22 | |
+| Knowledge Engineering and Knowledge Management 01219271 | 3 | 75 |
+| Data Communication and Computers Networks Programming 01219321 | 3 | 78 |
+| Workgroup Software Development Process 01219347 | 3 | 81 |
+| Workgroup Software Development Process Laboratory 01219348 | 1 | 82 |
+| Knowledge Representation 01219363 | 3 | 85 |
+| Group Dynamics and Psychology 01219391 | 3 | 88 |
+| ( The Art of Living with Others ) 01387101 เสรี | 3 | 91 |
+| ( Art Perception ) 01999034 มนุษย์ | 3 | 94 |
+| | 22 | 94 |
 | **Year 3 semester 2** |
 | | | |
-| Laws and Ethics in Information Technology | 3 | x |
-| Computer-Human Interfaces | 3 | x |
-| Technical Writing for Software and Knowledge Engineers | 3 | x |
-| Software Patterns and Architecture Laboratory | 1 | x |
-| Software Patterns and Architecture | 3 | x |
-| **Technical Electives** | 3 | x |
-| **Any General Education** | 3 | x |
-| | 13 + 3 + 3 | |
-| | | |
+| Laws and Ethics in Information Technology | 3 | 97 |
+| Computer-Human Interfaces | 3 | 100 |
+| Technical Writing for Software and Knowledge Engineers | 3 | 103 |
+| Software Patterns and Architecture Laboratory | 1 | 104 |
+| Software Patterns and Architecture | 3 | 107 |
+| Food for Mankind | 3 | 110 |
+| New Age Infor.Manage. in Everyday Life | 3 | 113 |
+| Special Problems | 3 | 116| 
+| | 22 | 116 |
 | **Year 4 semester 1** |
 | | | |
-| Cooperative Education | 9 | x |
-| | 9 | |
+| Cooperative Education | 9 | 125 |
+| | 9 | 125 |
 | | | |
 | **Year 4 semester 2** |
 | | | |
-| Software Entrepreneurship | 3 | x |
-| Innovative Software Group Project | 3 | x |
-| **Any General Education** | 3 | x |
-| **Technical Electives** | 3 | x |
-| **Free Electives** | 3 | x |
-| | 6+3+3+3 | |
-| | | |
+| Software Entrepreneurship | 3 | 128 |
+| Innovative Software Group Project | 3 | 131 |
+| พละ | 1 | 132 |
+| เสรีภาค หรือ เสรีอะไรก็ได้ | 3 | 135 |
+| English | 9 | 144 |
+| | 144 | 144 |
