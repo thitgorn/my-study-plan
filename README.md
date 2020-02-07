@@ -25,7 +25,7 @@
 | | | |
 | **Physical Education Activities** | Credit | 2 Units |
 | Table Tennis for Health | 1 | 1 |
-| x | 1 | 2 |
+| Social Dance for Health | 1 | 2 |
 | | | 1 |
 | | | |
 
@@ -34,7 +34,7 @@
 | Subject | Credit | 6 Units |
 | ------- | ------:| -----:|
 | Elementary German I | 3 | 3 |
-| x | 3 | 6 |
+| Digital Game Production | 3 | 6 |
 | | | 3 |
 
 ## Technical Electives
@@ -129,7 +129,7 @@
 | | | |
 | Software Entrepreneurship | 3 | 128 |
 | Innovative Software Group Project | 3 | 131 |
-| พละ | 1 | 132 |
-| เสรีภาค หรือ เสรีอะไรก็ได้ | 3 | 135 |
+| Social Dance for Health | 1 | 132 |
+| Digital Game Production | 3 | 135 |
 | English | 9 | 144 |
 | | 144 | 144 |
